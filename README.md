@@ -1,13 +1,20 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+PREVIEW ABOUT THE WEBSITE :
+![PREVIEW-1](https://github.com/FazhariRizkyy/React-Tailwind-1/assets/160480037/a64ed8f6-dcf9-44df-8675-ab9506d85734)
+![PREVIEW-2](https://github.com/FazhariRizkyy/React-Tailwind-1/assets/160480037/9537f7a4-0e20-4655-9a22-976d79308192)
+![PREVIEW-4](https://github.com/FazhariRizkyy/React-Tailwind-1/assets/160480037/490c2943-745c-4ab8-a1b9-466dca944f6e)
+
+
+
 
 First, run the development server:
 
 ```bash
 npm run dev
 # or
-yarn dev
+yarn dev![tailwind-css-1-2](https://github.com/FazhariRizkyy/React-Tailwind-1/assets/160480037/490006e2-6ea2-4647-a927-ff37a43d211f)![nextjs-icon-svgrepo-com](https://github.com/FazhariRizkyy/React-Tailwind-1/assets/160480037/d38c9b0f-2e51-4be4-b694-faef0619ff6d)
+
 # or
 pnpm dev
 # or
